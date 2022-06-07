@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @chibikes
 - 👀 I’m interested in software engineering 
+- linkedin -> https://www.linkedin.com/in/chibuike-okoh-5548aa7b
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me okoh_chibuike@yahoo.com
